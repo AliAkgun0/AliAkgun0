@@ -11,9 +11,9 @@
 
 <h3 align="left">&nbsp; A passionate Web developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Boostrap**
+- 🔭 I’m currently working on **Python**
 
-- 💬 Ask me about **Web Development**
+- 💬 Ask me about **Script Developer**
 
 - 📫 How to reach me **mali.akgun00@gmail.com**
 
