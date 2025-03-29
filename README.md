@@ -1,4 +1,4 @@
-![MasterHead](https://i.hizliresim.com/gbq6kzg.png)
+
 ![](https://komarev.com/ghpvc/?username=AliAkgun0&color=blue)
 <div align="center">
  <a href="https://github.com/AliAkgun0">
