@@ -9,7 +9,7 @@
 <img src="https://media.tenor.com/hmDMrE1yMAkAAAAM/when-the-coding-when-the.gif" alt="Coding" width=200 height=200 align="right">
 
 
-<h3 align="left">&nbsp; A passionate Web developer from Turkey</h3>
+<h3 align="left">&nbsp; A passionate Script developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Python**
 
