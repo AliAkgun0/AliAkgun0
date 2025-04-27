@@ -2,11 +2,11 @@
 ![](https://komarev.com/ghpvc/?username=AliAkgun0&color=blue)
 <div align="center">
  <a href="https://github.com/AliAkgun0">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&center=true&vCenter=true&width=435&lines=%e2%9c%a8+Muhammed Ali+Akgün+%e2%9c%a8;%f0%9f%93%9a+Script +Developer+%f0%9f%92%bb;Welcome+To+My+Profile+%f0%9f%91%80" alt="Typing SVG" />
+
  </a>
 </div>
 
-<img src="https://media.tenor.com/hmDMrE1yMAkAAAAM/when-the-coding-when-the.gif" alt="Coding" width=200 height=200 align="right">
+
 
 
 <h3 align="left">&nbsp; A passionate Script developer from Turkey</h3>
