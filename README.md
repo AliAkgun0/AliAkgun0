@@ -9,11 +9,11 @@
 
 
 
-<h3 align="left">&nbsp; A passionate Script developer from Turkey</h3>
+<h3 align="left">&nbsp; A passionate Web developer from Turkey</h3>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **PHP LARAVEL**
 
-- 💬 Ask me about **Script Developer**
+- 💬 Ask me about **Web Developer**
 
 - 📫 How to reach me **mali.akgun00@gmail.com**
 
