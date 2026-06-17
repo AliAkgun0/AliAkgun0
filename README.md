@@ -15,8 +15,6 @@
 
 - 💬 Ask me about **Web Developer**
 
-- 📫 How to reach me **mali.akgun00@gmail.com**
-
 <!--
 
  <h3 align="left">Connect with me:</h3>
