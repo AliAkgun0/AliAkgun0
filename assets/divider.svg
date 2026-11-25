@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 32" width="100%">
+  <defs>
+    <linearGradient id="lineBase" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0F172A" stop-opacity="0" />
+      <stop offset="20%" stop-color="#1E293B" stop-opacity="1" />
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.55" />
+      <stop offset="80%" stop-color="#1E293B" stop-opacity="1" />
+      <stop offset="100%" stop-color="#0F172A" stop-opacity="0" />
+    </linearGradient>
+    <linearGradient id="pulseGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0" />
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="1" />
+      <stop offset="100%" stop-color="#818CF8" stop-opacity="0" />
+    </linearGradient>
+    <clipPath id="divClip">
+      <rect x="0" y="0" width="1200" height="32" />
+    </clipPath>
+  </defs>
+  <g clip-path="url(#divClip)">
+    <line x1="20" y1="16" x2="1180" y2="16" stroke="url(#lineBase)" stroke-width="1.5" />
+    <rect x="-220" y="14.5" width="220" height="3" rx="1.5" fill="url(#pulseGlow)">
+      <animate attributeName="x" from="-220" to="1220" dur="4.4s" repeatCount="indefinite" />
+    </rect>
+    <polygon points="600,8 608,16 600,24 592,16" fill="#0B1324" stroke="#38BDF8" stroke-width="1.4" />
+    <circle cx="600" cy="16" r="2.5" fill="#38BDF8">
+      <animate attributeName="opacity" values="1;0.3;1" dur="2.2s" repeatCount="indefinite" />
+    </circle>
+  </g>
+</svg>

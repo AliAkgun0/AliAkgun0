@@ -1,0 +1,64 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 580 242" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#060B16" />
+      <stop offset="100%" stop-color="#191308" />
+    </linearGradient>
+    <radialGradient id="glow" cx="90%" cy="10%" r="65%">
+      <stop offset="0%" stop-color="#F59E0B" stop-opacity="0.20" />
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0" />
+    </radialGradient>
+    <linearGradient id="accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FBBF24" />
+      <stop offset="100%" stop-color="#F59E0B" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <style><![CDATA[
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; }
+  ]]></style>
+
+  <rect x="3" y="3" width="574" height="236" rx="18" fill="url(#bg)" stroke="#1E293B" stroke-width="1.3" />
+  <rect x="3" y="3" width="574" height="236" rx="18" fill="url(#glow)" />
+  <rect x="24" y="3" width="220" height="2.5" rx="1.25" fill="url(#accent)" />
+
+  <!-- Icon Box -->
+  <rect x="26" y="26" width="44" height="44" rx="12" fill="#291D08" stroke="#FBBF24" stroke-opacity="0.45" stroke-width="1" />
+  <rect x="40" y="40" width="16" height="16" rx="3" fill="none" stroke="#FBBF24" stroke-width="2" />
+  <path d="M44 36 V40 M52 36 V40 M44 56 V60 M52 56 V60 M36 44 H40 M36 52 H40 M56 44 H60 M56 52 H60" stroke="#FBBF24" stroke-width="1.8" stroke-linecap="round" />
+
+  <!-- Title & Subtitle -->
+  <text x="84" y="45" class="sans" font-size="19" font-weight="800" fill="#F8FAFC">NextGen Lite Injector</text>
+  <text x="84" y="64" class="mono" font-size="11.5" fill="#FBBF24">AliAkgun0/nextgen-lite-dll-injector</text>
+
+  <!-- Status Pill -->
+  <rect x="414" y="28" width="140" height="26" rx="13" fill="#291D08" stroke="#F59E0B" stroke-opacity="0.45" stroke-width="1" />
+  <circle cx="430" cy="41" r="3.5" fill="#FBBF24">
+    <animate attributeName="opacity" values="1;0.35;1" dur="2s" repeatCount="indefinite" />
+  </circle>
+  <text x="441" y="45" class="mono" font-size="10.5" font-weight="700" fill="#FDE68A">★ WIN32 • v1.0</text>
+
+  <!-- Description -->
+  <text x="26" y="102" class="sans" font-size="13.5" fill="#CBD5E1">Native Windows process inspection &amp; DLL injection utility crafted</text>
+  <text x="26" y="123" class="sans" font-size="13.5" fill="#CBD5E1">directly on the Win32 API and GDI+. Live user-mode process listing</text>
+  <text x="26" y="144" class="sans" font-size="13.5" fill="#94A3B8">with icons &amp; PIDs, search filtering &amp; critical OS process protection.</text>
+
+  <line x1="26" y1="176" x2="554" y2="176" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Tech Chips -->
+  <g transform="translate(26, 192)">
+    <rect x="0" y="0" width="48" height="25" rx="7" fill="#18140C" stroke="#1E293B" />
+    <text x="24" y="16.5" text-anchor="middle" class="mono" font-size="11" font-weight="600" fill="#FDE68A">C++</text>
+
+    <rect x="56" y="0" width="84" height="25" rx="7" fill="#18140C" stroke="#1E293B" />
+    <text x="98" y="16.5" text-anchor="middle" class="mono" font-size="11" font-weight="600" fill="#E2E8F0">Win32 API</text>
+
+    <rect x="148" y="0" width="54" height="25" rx="7" fill="#18140C" stroke="#1E293B" />
+    <text x="175" y="16.5" text-anchor="middle" class="mono" font-size="11" font-weight="600" fill="#E2E8F0">GDI+</text>
+
+    <rect x="210" y="0" width="60" height="25" rx="7" fill="#18140C" stroke="#1E293B" />
+    <text x="240" y="16.5" text-anchor="middle" class="mono" font-size="11" font-weight="600" fill="#94A3B8">PSAPI</text>
+  </g>
+
+  <text x="554" y="209" text-anchor="end" class="mono" font-size="11.5" font-weight="700" fill="#FBBF24">Open Repo ↗</text>
+</svg>

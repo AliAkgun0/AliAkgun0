@@ -1,0 +1,174 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 490" width="100%">
+  <defs>
+    <linearGradient id="tileBg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#070C18" />
+      <stop offset="100%" stop-color="#0B1324" />
+    </linearGradient>
+
+    <linearGradient id="tileBorder" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.38" />
+      <stop offset="50%" stop-color="#1E293B" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#6366F1" stop-opacity="0.38" />
+    </linearGradient>
+
+    <linearGradient id="pipeTrack" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0EA5E9" />
+      <stop offset="50%" stop-color="#6366F1" />
+      <stop offset="100%" stop-color="#10B981" />
+    </linearGradient>
+
+    <linearGradient id="barCyan" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="100%" stop-color="#1D4ED8" />
+    </linearGradient>
+  </defs>
+
+  <style><![CDATA[
+    .sans { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Inter, Roboto, Helvetica, Arial, sans-serif; }
+    .mono { font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, monospace; }
+  ]]></style>
+
+  <!-- ========================================================= -->
+  <!-- TILE 1 (Top-Left Wide): 01 DISCOVER -> 02 BUILD -> 03 VERIFY -->
+  <!-- ========================================================= -->
+  <rect x="4" y="4" width="728" height="232" rx="20" fill="url(#tileBg)" stroke="url(#tileBorder)" stroke-width="1.3" />
+  <text x="32" y="36" class="mono" font-size="11" font-weight="700" fill="#38BDF8" letter-spacing="1">ENGINEERING WORKFLOW // PRODUCT METHODOLOGY</text>
+  <text x="704" y="36" text-anchor="end" class="mono" font-size="11" fill="#64748B">aliakgun.site</text>
+  <line x1="4" y1="50" x2="732" y2="50" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Connecting Pipeline Line -->
+  <line x1="138" y1="92" x2="598" y2="92" stroke="#1E293B" stroke-width="3" />
+  <line x1="138" y1="92" x2="598" y2="92" stroke="url(#pipeTrack)" stroke-width="2" stroke-opacity="0.55" />
+
+  <!-- Animated Data Packet gliding across pipeline -->
+  <circle cx="138" cy="92" r="5" fill="#38BDF8">
+    <animate attributeName="cx" values="138;368;598;138" keyTimes="0;0.42;0.84;1" dur="5.4s" repeatCount="indefinite" />
+    <animate attributeName="fill" values="#38BDF8;#818CF8;#34D399;#38BDF8" keyTimes="0;0.42;0.84;1" dur="5.4s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Stage 01 -->
+  <rect x="28" y="68" width="216" height="146" rx="14" fill="#050913" stroke="#0EA5E9" stroke-opacity="0.4" stroke-width="1" />
+  <rect x="44" y="80" width="114" height="22" rx="6" fill="#0C213B" />
+  <text x="54" y="95" class="mono" font-size="11" font-weight="700" fill="#38BDF8">01 / DISCOVER</text>
+  <text x="44" y="128" class="sans" font-size="15" font-weight="700" fill="#F8FAFC">Right Question First</text>
+  <text x="44" y="152" class="sans" font-size="12.5" fill="#94A3B8">Map constraints, user goals,</text>
+  <text x="44" y="170" class="sans" font-size="12.5" fill="#94A3B8">and edge cases before</text>
+  <text x="44" y="188" class="sans" font-size="12.5" fill="#94A3B8">touching implementation.</text>
+
+  <!-- Stage 02 -->
+  <rect x="260" y="68" width="216" height="146" rx="14" fill="#050913" stroke="#6366F1" stroke-opacity="0.4" stroke-width="1" />
+  <rect x="276" y="80" width="96" height="22" rx="6" fill="#171B3A" />
+  <text x="286" y="95" class="mono" font-size="11" font-weight="700" fill="#818CF8">02 / BUILD</text>
+  <text x="276" y="128" class="sans" font-size="15" font-weight="700" fill="#F8FAFC">Clear Architecture</text>
+  <text x="276" y="152" class="sans" font-size="12.5" fill="#94A3B8">Engineer modular APIs, fast</text>
+  <text x="276" y="170" class="sans" font-size="12.5" fill="#94A3B8">UIs, and memory-safe native</text>
+  <text x="276" y="188" class="sans" font-size="12.5" fill="#94A3B8">pipelines with clean code.</text>
+
+  <!-- Stage 03 -->
+  <rect x="492" y="68" width="216" height="146" rx="14" fill="#050913" stroke="#10B981" stroke-opacity="0.4" stroke-width="1" />
+  <rect x="508" y="80" width="102" height="22" rx="6" fill="#082820" />
+  <text x="518" y="95" class="mono" font-size="11" font-weight="700" fill="#34D399">03 / VERIFY</text>
+  <text x="508" y="128" class="sans" font-size="15" font-weight="700" fill="#F8FAFC">Prove It Works</text>
+  <text x="508" y="152" class="sans" font-size="12.5" fill="#94A3B8">Validate UX, multi-GB file</text>
+  <text x="508" y="170" class="sans" font-size="12.5" fill="#94A3B8">throughput, OS safety, and</text>
+  <text x="508" y="188" class="sans" font-size="12.5" fill="#94A3B8">security in production.</text>
+
+  <!-- ========================================================= -->
+  <!-- TILE 2 (Right Tall Column): 4-LAYER VERTICAL ARCHITECTURE -->
+  <!-- ========================================================= -->
+  <rect x="752" y="4" width="444" height="482" rx="20" fill="url(#tileBg)" stroke="url(#tileBorder)" stroke-width="1.3" />
+  <text x="780" y="36" class="mono" font-size="11" font-weight="700" fill="#818CF8" letter-spacing="1">VERTICAL DEPTH // 4-LAYER STACK</text>
+  <line x1="752" y1="50" x2="1196" y2="50" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Vertical Signal Spine -->
+  <line x1="796" y1="98" x2="796" y2="432" stroke="#1E293B" stroke-width="2.5" />
+  <circle cx="796" cy="98" r="4.5" fill="#38BDF8">
+    <animate attributeName="cy" values="98;206;314;422;98" dur="6s" repeatCount="indefinite" />
+  </circle>
+
+  <!-- Layer 4: Interface -->
+  <rect x="820" y="68" width="352" height="90" rx="14" fill="#050913" stroke="#38BDF8" stroke-opacity="0.4" stroke-width="1" />
+  <circle cx="796" cy="113" r="6" fill="#38BDF8" />
+  <text x="838" y="94" class="mono" font-size="11" font-weight="700" fill="#38BDF8">L4 // MODERN UI &amp; CLIENT EXPERIENCE</text>
+  <text x="838" y="118" class="sans" font-size="14" font-weight="700" fill="#F8FAFC">React 18 • Next.js • TypeScript • WPF</text>
+  <text x="838" y="140" class="mono" font-size="11.5" fill="#94A3B8">Tailwind CSS • shadcn/ui • Framer Motion</text>
+
+  <!-- Layer 3: Backend & State -->
+  <rect x="820" y="176" width="352" height="90" rx="14" fill="#050913" stroke="#818CF8" stroke-opacity="0.4" stroke-width="1" />
+  <circle cx="796" cy="221" r="6" fill="#818CF8" />
+  <text x="838" y="202" class="mono" font-size="11" font-weight="700" fill="#818CF8">L3 // BACKEND SERVICES &amp; ARCHITECTURE</text>
+  <text x="838" y="226" class="sans" font-size="14" font-weight="700" fill="#F8FAFC">Laravel • PHP • ASP.NET Core • .NET 10</text>
+  <text x="838" y="248" class="mono" font-size="11.5" fill="#94A3B8">REST APIs • MVVM • Zustand • Clean Code</text>
+
+  <!-- Layer 2: Data & Streaming -->
+  <rect x="820" y="284" width="352" height="90" rx="14" fill="#050913" stroke="#10B981" stroke-opacity="0.4" stroke-width="1" />
+  <circle cx="796" cy="329" r="6" fill="#34D399" />
+  <text x="838" y="310" class="mono" font-size="11" font-weight="700" fill="#34D399">L2 // PERSISTENCE &amp; LARGE-FILE I/O</text>
+  <text x="838" y="334" class="sans" font-size="14" font-weight="700" fill="#F8FAFC">MySQL • Supabase (PostgreSQL + RLS)</text>
+  <text x="838" y="356" class="mono" font-size="11.5" fill="#94A3B8">Streaming FileStream • Sparse Line Indexing</text>
+
+  <!-- Layer 1: Native & Kernel -->
+  <rect x="820" y="392" width="352" height="78" rx="14" fill="#050913" stroke="#F43F5E" stroke-opacity="0.4" stroke-width="1" />
+  <circle cx="796" cy="431" r="6" fill="#FB7185" />
+  <text x="838" y="416" class="mono" font-size="11" font-weight="700" fill="#FB7185">L1 // SYSTEMS, OS &amp; KERNEL SOCKETS</text>
+  <text x="838" y="439" class="sans" font-size="14" font-weight="700" fill="#F8FAFC">C++ Win32 API • Linux Netlink (nl80211)</text>
+  <text x="838" y="458" class="mono" font-size="11.5" fill="#94A3B8">Scapy 802.11 • PSAPI • Android SDK 35</text>
+
+  <!-- ========================================================= -->
+  <!-- TILE 3 (Bottom-Left): PERFORMANCE BENCHMARKS              -->
+  <!-- ========================================================= -->
+  <rect x="4" y="254" width="354" height="232" rx="20" fill="url(#tileBg)" stroke="url(#tileBorder)" stroke-width="1.3" />
+  <text x="30" y="286" class="mono" font-size="11" font-weight="700" fill="#10B981" letter-spacing="1">PERFORMANCE ENGINEERING</text>
+  <line x1="4" y1="300" x2="358" y2="300" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Animated Throughput Equalizer -->
+  <g transform="translate(30, 316)">
+    <rect x="0" y="10" width="8" height="26" rx="3" fill="url(#barCyan)">
+      <animate attributeName="height" values="14;32;14" dur="1.4s" repeatCount="indefinite" />
+      <animate attributeName="y" values="22;4;22" dur="1.4s" repeatCount="indefinite" />
+    </rect>
+    <rect x="14" y="4" width="8" height="32" rx="3" fill="url(#barCyan)">
+      <animate attributeName="height" values="32;12;32" dur="1.1s" repeatCount="indefinite" />
+      <animate attributeName="y" values="4;24;4" dur="1.1s" repeatCount="indefinite" />
+    </rect>
+    <rect x="28" y="14" width="8" height="22" rx="3" fill="url(#barCyan)">
+      <animate attributeName="height" values="18;34;18" dur="1.6s" repeatCount="indefinite" />
+      <animate attributeName="y" values="18;2;18" dur="1.6s" repeatCount="indefinite" />
+    </rect>
+    <rect x="42" y="6" width="8" height="30" rx="3" fill="url(#barCyan)">
+      <animate attributeName="height" values="28;10;28" dur="1.25s" repeatCount="indefinite" />
+      <animate attributeName="y" values="8;26;8" dur="1.25s" repeatCount="indefinite" />
+    </rect>
+    <text x="64" y="19" class="sans" font-size="15" font-weight="700" fill="#F8FAFC">Zero-Bottleneck Mindset</text>
+    <text x="64" y="35" class="mono" font-size="11" fill="#64748B">Memory-bounded &amp; low-latency</text>
+  </g>
+
+  <text x="30" y="384" class="mono" font-size="12" fill="#38BDF8">▸ <tspan fill="#E2E8F0" font-weight="600">Streaming I/O:</tspan> <tspan fill="#94A3B8">Multi-GB files, low RAM</tspan></text>
+  <text x="30" y="414" class="mono" font-size="12" fill="#818CF8">▸ <tspan fill="#E2E8F0" font-weight="600">Direct Netlink:</tspan> <tspan fill="#94A3B8">0 external CLI wrappers</tspan></text>
+  <text x="30" y="444" class="mono" font-size="12" fill="#34D399">▸ <tspan fill="#E2E8F0" font-weight="600">Privacy-First:</tspan> <tspan fill="#94A3B8">0 telemetry desktop apps</tspan></text>
+
+  <!-- ========================================================= -->
+  <!-- TILE 4 (Bottom-Center): VERIFIED RELEASES & GLOBAL REACH  -->
+  <!-- ========================================================= -->
+  <rect x="378" y="254" width="354" height="232" rx="20" fill="url(#tileBg)" stroke="url(#tileBorder)" stroke-width="1.3" />
+  <text x="404" y="286" class="mono" font-size="11" font-weight="700" fill="#F59E0B" letter-spacing="1">SHIPPED RELEASES &amp; REACH</text>
+  <line x1="378" y1="300" x2="732" y2="300" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Shipped Release Rows -->
+  <rect x="402" y="316" width="306" height="38" rx="10" fill="#050913" stroke="#1E293B" stroke-width="1" />
+  <text x="418" y="340" class="sans" font-size="13" font-weight="600" fill="#F8FAFC">GalaXako Editor</text>
+  <rect x="626" y="324" width="68" height="22" rx="6" fill="#0B253C" />
+  <text x="660" y="339" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#38BDF8">v1.0.0</text>
+
+  <rect x="402" y="364" width="306" height="38" rx="10" fill="#050913" stroke="#1E293B" stroke-width="1" />
+  <text x="418" y="388" class="sans" font-size="13" font-weight="600" fill="#F8FAFC">NextGen Lite Injector</text>
+  <rect x="626" y="372" width="68" height="22" rx="6" fill="#2B1F08" />
+  <text x="660" y="387" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#FBBF24">v1.0</text>
+
+  <rect x="402" y="412" width="306" height="38" rx="10" fill="#050913" stroke="#1E293B" stroke-width="1" />
+  <text x="418" y="436" class="sans" font-size="13" font-weight="600" fill="#F8FAFC">PrecisionClicker Lite</text>
+  <rect x="626" y="420" width="68" height="22" rx="6" fill="#072822" />
+  <text x="660" y="435" text-anchor="middle" class="mono" font-size="11" font-weight="700" fill="#34D399">v1.0</text>
+
+  <text x="555" y="472" text-anchor="middle" class="mono" font-size="11" fill="#64748B">ANKARA, TÜRKİYE 🇹🇷  •  GLOBAL STANDARDS 🌍</text>
+</svg>
