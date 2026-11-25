@@ -1,262 +1,306 @@
+<!-- ═══════════════════════════════════════════════════════════════════
+     Muhammed Ali Akgün · GitHub Profile README
+     Palette: #0D1117 (bg) · #58A6FF (blue) · #A371F7 (purple) · #C9D1D9 (text)
+     ═══════════════════════════════════════════════════════════════════ -->
+
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:1E3A8A,100:0EA5E9&height=210&section=header&text=Muhammed%20Ali%20Akg%C3%BCn&fontSize=44&fontColor=FFFFFF&fontAlignY=36&desc=Software%20Developer%20%E2%80%A2%20Full-Stack%20%26%20Systems%20Builder&descSize=17&descAlignY=58&animation=fadeIn" alt="Muhammed Ali Akgün" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1F6FEB,100:A371F7&height=230&section=header&text=Muhammed%20Ali%20Akg%C3%BCn&fontSize=52&fontColor=FFFFFF&fontAlignY=36&desc=Full-Stack%20Developer%20%C2%B7%20Ankara%2C%20T%C3%BCrkiye&descSize=18&descAlignY=58&animation=fadeIn" width="100%" alt="Muhammed Ali Akgün" />
 
-<a href="https://github.com/AliAkgun0">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=760&lines=Think%2C+design%2C+make+it+work+%E2%80%94+clear%2C+fast+products.;Full-Stack+Web+%E2%80%A2+Laravel%2C+ASP.NET+Core%2C+React+%26+Next.js;High-Performance+Desktop+%E2%80%A2+.NET+10+WPF%2C+C%2B%2B+Win32+%26+PyQt5;Systems+%26+Security+%E2%80%A2+Python%2C+Linux+Netlink+%26+Packet+Analysis;Building+digital+products+from+Ankara%2C+T%C3%BCrkiye+for+the+world." alt="Typing SVG" />
+<a href="https://aliakgun.site">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3200&pause=900&color=58A6FF&center=true&vCenter=true&width=640&lines=Full-Stack+Developer+in+Progress;PHP+%26+Laravel+%E2%80%A2+React+%26+Next.js;C%23+%2F+.NET+desktop+apps+with+WPF;Python+tooling+%26+Linux+networking;Design.+Develop.+Secure.+Ship." alt="Typing SVG" />
 </a>
 
-<br/><br/>
+<br/>
 
-<p align="center">
-  <a href="https://aliakgun.site">
-    <img src="https://img.shields.io/badge/PORTFOLIO-aliakgun.site-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" />
-  </a>
-  <a href="https://github.com/AliAkgun0?tab=repositories">
-    <img src="https://img.shields.io/badge/REPOSITORIES-Explore_Builds-6366F1?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Repositories" />
-  </a>
-  <a href="https://aliakgun.site/contact">
-    <img src="https://img.shields.io/badge/CONTACT-Collaborate-10B981?style=for-the-badge&labelColor=0D1117" alt="Contact" />
-  </a>
-  <a href="https://github.com/AliAkgun0">
-    <img src="https://komarev.com/ghpvc/?username=AliAkgun0&label=PROFILE+VIEWS&color=38BDF8&style=for-the-badge" alt="Profile Views" />
-  </a>
-</p>
+<a href="https://aliakgun.site"><img src="https://img.shields.io/badge/Portfolio-aliakgun.site-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
+<a href="https://aliakgun.site/contact"><img src="https://img.shields.io/badge/Open_to-Collaboration-2EA043?style=for-the-badge&logo=handshake&logoColor=white&labelColor=0D1117" alt="Open to collaboration" /></a>
+<img src="https://img.shields.io/badge/Ankara-T%C3%BCrkiye-E30A17?style=for-the-badge&logo=googlemaps&logoColor=white&labelColor=0D1117" alt="Ankara, Türkiye" />
+
+<a href="https://github.com/AliAkgun0"><img src="https://komarev.com/ghpvc/?username=AliAkgun0&color=A371F7&style=flat-square&label=Profile+Views" alt="Profile views" /></a>
+<a href="https://github.com/AliAkgun0?tab=followers"><img src="https://img.shields.io/github/followers/AliAkgun0?style=flat-square&logo=github&label=Followers&color=58A6FF&labelColor=0D1117" alt="Followers" /></a>
+<a href="https://github.com/AliAkgun0?tab=repositories"><img src="https://img.shields.io/github/stars/AliAkgun0?affiliations=OWNER&style=flat-square&logo=github&label=Stars&color=E3B341&labelColor=0D1117" alt="Total stars" /></a>
+
+<br/>
+
+**[About](#-about-me)** &nbsp;·&nbsp; **[Stack](#-tech-stack)** &nbsp;·&nbsp; **[Projects](#-featured-projects)** &nbsp;·&nbsp; **[How I Work](#-how-i-work)** &nbsp;·&nbsp; **[Stats](#-github-analytics)** &nbsp;·&nbsp; **[Contact](#-lets-connect)**
 
 </div>
 
----
+<br/>
 
-## ⚡ Engineering Profile
+## 👨‍💻 About Me
 
-I'm a **Türkiye-based Software Developer & Digital Product Builder** creating fast, reliable web platforms, high-performance desktop utilities, mobile applications, and low-level system tools. I treat **clean design, runtime performance, and security** as part of the same engineering decision.
+<table>
+<tr>
+<td width="55%" valign="top">
 
 ```ts
-const muhammedAliAkgun = {
-  location: "Ankara, Türkiye 🇹🇷 (Open to Global Collaborations 🌍)",
-  portfolio: "https://aliakgun.site",
-  coreStack: {
-    web: ["PHP", "Laravel", "React", "Next.js", "TypeScript", "ASP.NET Core", "Tailwind CSS"],
-    desktopAndSystems: ["C#", ".NET 10 (WPF)", "C++ (Win32 API)", "Python (PyQt5, Netlink/Scapy)"],
-    mobileAndData: ["Java (Android SDK)", "React Native / Expo", "MySQL", "Supabase (PostgreSQL)"]
+const ali = {
+  name:      "Muhammed Ali Akgün",
+  location:  "Ankara, Türkiye 🇹🇷",
+  role:      "Software Development Student",
+  title:     "Full-Stack Developer in Progress",
+  speaks:    ["Türkçe", "English"],
+
+  stack: {
+    web:     ["PHP", "Laravel", "React", "Next.js", "TypeScript"],
+    desktop: ["C#", ".NET", "WPF", "C++", "Win32"],
+    mobile:  ["Java", "Android"],
+    systems: ["Python", "Linux", "Scapy", "Netlink"],
   },
-  philosophy: "Not a technology showcase — clear, fast products people can actually use."
+
+  building:  "GalaXako Editor — big files, clean lists",
+  motto:     "Design ◆ Develop ◆ Secure ◆ Ship",
 };
 ```
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
+</td>
+<td width="45%" valign="top">
 
-#### `01 / DISCOVER`
-**Find the right question first.**  
-Understanding real user constraints, edge cases, and architectural bottlenecks before writing the first line of code.
+I'm a software development student from **Türkiye** who likes turning ideas into **real, usable products** — not tech demos.
 
-    </td>
-    <td width="33%" valign="top">
+I work across the whole stack: **web platforms**, **Windows desktop apps**, **Android apps** and **Linux tooling**.
 
-#### `02 / BUILD`
-**Engineer a clear system.**  
-Designing modular backends, responsive interfaces, and memory-efficient native tools with clean, maintainable code.
+- 🚀 Building web apps with **PHP & Laravel**
+- ⚛️ Crafting interfaces with **React & Next.js**
+- 🖥️ Shipping desktop tools with **C# / .NET / WPF**
+- 🐍 Writing **Python** for automation & networking
+- 🔐 Treating **design, performance & security** as one decision
+- 🌐 More at **[aliakgun.site](https://aliakgun.site)**
 
-    </td>
-    <td width="34%" valign="top">
-
-#### `03 / VERIFY`
-**Prove that it works.**  
-Validating responsiveness, large-input performance, process safety, and security across real-world scenarios.
-
-    </td>
-  </tr>
+</td>
+</tr>
 </table>
 
----
+<br/>
 
-## 🏆 Flagship & Featured Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-
-### ⚡ [GalaXako Editor (`gxeditor`)](https://github.com/AliAkgun0/gxeditor)
-![Desktop Release](https://img.shields.io/badge/Desktop_Editor-v1.0.0_Release-0EA5E9?style=flat-square&labelColor=0D1117)
-
-High-performance, privacy-first Windows editor engineered for huge `TXT`, `LOG`, `CSV`, `TSV`, and `JSONL` files **without loading entire files into RAM**. Features streaming I/O, sparse line indexing, disk-backed sorting, regex entity extraction, CSV column operations, 2-file diffing, and multi-step batch pipelines.
-
-`C#` • `.NET 10` • `WPF / MVVM` • `AvalonEdit` • `Streaming I/O`
-
-<p>
-  <a href="https://github.com/AliAkgun0/gxeditor">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-  </a>
-  <a href="https://github.com/AliAkgun0/gxeditor/releases/tag/v1.0.0">
-    <img src="https://img.shields.io/badge/Release_v1.0.0-0EA5E9?style=for-the-badge&logo=windows&logoColor=white" alt="Release v1.0.0" />
-  </a>
-</p>
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🛡️ [Wi-Fi Security Framework](https://github.com/AliAkgun0/wifi-security-framework)
-![Cybersecurity](https://img.shields.io/badge/Wireless_Security-Linux_Kernel_Netlink-EF4444?style=flat-square&labelColor=0D1117)
-
-Enterprise-grade wireless assessment framework in Python built with **zero external shell wrappers** (`iw` / `airmon-ng`). Uses direct kernel Netlink (`nl80211`) sockets, real-time Scapy 802.11 frame streaming, WPA/WPA2 4-way EAPOL `.pcap` handshake capture, and an autonomous watchdog for driver panic recovery.
-
-`Python` • `Linux Netlink / nl80211` • `pyroute2` • `Scapy` • `802.11`
-
-<p>
-  <a href="https://github.com/AliAkgun0/wifi-security-framework">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-  </a>
-</p>
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### 🔖 [Bookmark Hub](https://github.com/AliAkgun0/Bookmark-Hub)
-![Modern Web](https://img.shields.io/badge/Web_Application-Zero--Latency_CRUD-8B5CF6?style=flat-square&labelColor=0D1117)
-
-Sleek, persistent client-side bookmark manager built for instant organization without backend latency. Includes custom categories with automatic safe migration, dynamic favicon fetching, one-click clipboard actions, dark/light theme support, and fluid Framer Motion transitions.
-
-`React 18` • `TypeScript` • `Zustand` • `Tailwind CSS` • `shadcn/ui` • `Framer Motion`
-
-<p>
-  <a href="https://github.com/AliAkgun0/Bookmark-Hub">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-  </a>
-</p>
-
-    </td>
-    <td width="50%" valign="top">
-
-### ⏱️ [FocusTime — React Pomodoro](https://github.com/AliAkgun0/React-Pomodoro-Web)
-![Cloud Sync](https://img.shields.io/badge/Productivity_App-Supabase_Cloud_Sync-10B981?style=flat-square&labelColor=0D1117)
-
-Productivity-focused Pomodoro web platform featuring circular progress timers (focus, short & long breaks), desktop notifications, adaptive dark/light themes, real-time focus metrics, and cloud-synced session persistence powered by **Supabase PostgreSQL with Row Level Security**.
-
-`React 18` • `TypeScript` • `Supabase (PostgreSQL + RLS)` • `Tailwind CSS` • `Vite`
-
-<p>
-  <a href="https://github.com/AliAkgun0/React-Pomodoro-Web">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-  </a>
-</p>
-
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-
-### ⚙️ [NextGen Lite DLL Injector](https://github.com/AliAkgun0/nextgen-lite-dll-injector)
-![Win32 Native](https://img.shields.io/badge/Windows_Systems-v1.0_Release-F59E0B?style=flat-square&labelColor=0D1117)
-
-Native Windows process inspection and DLL injection desktop tool crafted directly with the **Win32 API and GDI+**. Provides live user-mode process enumeration with icons & PIDs, instant process filtering, DLL path validation, and safeguards protecting critical OS processes.
-
-`C++` • `Win32 API` • `GDI+` • `PSAPI` • `Visual Studio`
-
-<p>
-  <a href="https://github.com/AliAkgun0/nextgen-lite-dll-injector">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-  </a>
-  <a href="https://github.com/AliAkgun0/nextgen-lite-dll-injector/releases/tag/injector">
-    <img src="https://img.shields.io/badge/Release_v1.0-F59E0B?style=for-the-badge&logo=windows&logoColor=black" alt="Release v1.0" />
-  </a>
-</p>
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🖱️ [PrecisionClicker Lite](https://github.com/AliAkgun0/PrecisionClicker-Lite)
-![Desktop Automation](https://img.shields.io/badge/Desktop_Utility-v1.0_Release-06B6D4?style=flat-square&labelColor=0D1117)
-
-Lightweight, dark-themed desktop automation tool designed for high-speed, low-overhead clicking workflows. Supports millisecond interval tuning, left/right/middle mouse button configuration, and global `F6` hotkey toggling with a standalone `.exe` release.
-
-`Python` • `PyQt5` • `PyAutoGUI` • `Desktop Automation`
-
-<p>
-  <a href="https://github.com/AliAkgun0/PrecisionClicker-Lite">
-    <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code" />
-  </a>
-  <a href="https://github.com/AliAkgun0/PrecisionClicker-Lite/releases/tag/auto-clicker">
-    <img src="https://img.shields.io/badge/Release_v1.0-06B6D4?style=for-the-badge&logo=windows&logoColor=black" alt="Release v1.0" />
-  </a>
-</p>
-
-    </td>
-  </tr>
-</table>
-
-<details>
-  <summary><b>📱 View Additional Mobile & Android Repositories</b></summary>
-  <br/>
-
-  * **[Mobile-Web-Viewer](https://github.com/AliAkgun0/Mobile-Web-Viewer)** (`Java • Android SDK 35 • AndroidX • SwipeRefreshLayout`) — Domain-locked native Android WebView application featuring pull-to-refresh, offline connectivity checks, and a custom splash flow.
-  * **[Calculator](https://github.com/AliAkgun0/calculator)** (`Java • Android XML • Light/Dark Theme`) — Native four-operation Android calculator with automatic light/dark system theme adaptation and prebuilt APK.
-
-</details>
-
----
-
-## 🛠️ Tech Stack & Ecosystem
+## 🧰 Tech Stack
 
 <div align="center">
 
-### Languages
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=php,ts,js,cs,py,cpp,java,html,css&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=php,ts,js,cs,py,cpp,java,html,css&theme=light" />
-  <img alt="Languages" src="https://skillicons.dev/icons?i=php,ts,js,cs,py,cpp,java,html,css&theme=dark" />
-</picture>
+<table>
+<tr>
+<td align="center" width="25%"><b>💬 Languages</b></td>
+<td align="center" width="75%"><img src="https://skillicons.dev/icons?i=php,ts,js,cs,java,py,cpp,html,css&theme=dark&perline=9" alt="Languages" /></td>
+</tr>
+<tr>
+<td align="center"><b>🧱 Frameworks</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=laravel,react,nextjs,dotnet,nodejs,tailwind,bootstrap,vite,qt&theme=dark&perline=9" alt="Frameworks" /></td>
+</tr>
+<tr>
+<td align="center"><b>🗄️ Data</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=mysql,supabase&theme=dark" alt="Databases" /></td>
+</tr>
+<tr>
+<td align="center"><b>🛠️ Tools</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,androidstudio,cloudflare,bash,powershell&theme=dark&perline=9" alt="Tools" /></td>
+</tr>
+<tr>
+<td align="center"><b>💻 Platforms</b></td>
+<td align="center"><img src="https://skillicons.dev/icons?i=windows,linux&theme=dark" alt="Platforms" /></td>
+</tr>
+</table>
 
-### Frameworks, UI & Mobile
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=laravel,dotnet,react,nextjs,nodejs,tailwind,bootstrap,vite,androidstudio&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=laravel,dotnet,react,nextjs,nodejs,tailwind,bootstrap,vite,androidstudio&theme=light" />
-  <img alt="Frameworks & Mobile" src="https://skillicons.dev/icons?i=laravel,dotnet,react,nextjs,nodejs,tailwind,bootstrap,vite,androidstudio&theme=dark" />
-</picture>
+</div>
 
-### Data, Systems & Developer Tooling
+```text
+Frontend   ▸ React · Next.js · TypeScript · Tailwind CSS · Zustand · shadcn/ui · Framer Motion
+Backend    ▸ PHP · Laravel · ASP.NET Core · REST APIs · Supabase
+Desktop    ▸ C# · .NET 10 · WPF · MVVM · AvalonEdit · C++ · Win32 API · PyQt5
+Mobile     ▸ Java · Android SDK · WebView
+Systems    ▸ Python · Scapy · pyroute2 / nl80211 · Linux networking
+```
+
+<br/>
+
+## 🌟 Featured Projects
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<h3>📝 GalaXako Editor</h3>
+
+<a href="https://github.com/AliAkgun0/gxeditor"><img src="https://img.shields.io/badge/C%23-.NET_10-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt=".NET 10" /></a>
+<img src="https://img.shields.io/badge/WPF-MVVM-0078D4?style=flat-square" alt="WPF MVVM" />
+<img src="https://img.shields.io/badge/status-active-2EA043?style=flat-square" alt="Active" />
+
+**Big files. Clean lists. Fast processing.**
+A high-performance Windows editor for huge **TXT · LOG · CSV · TSV · JSONL** files — without loading them into RAM.
+
+- ⚡ Streaming I/O, sparse line index & external sort
+- 🧹 Filter, dedupe, extract (URL, e-mail, IP, hashes)
+- 🔗 Chain operations into reusable **pipelines**
+- 🔒 100% local — no telemetry, no uploads
+
+<a href="https://github.com/AliAkgun0/gxeditor"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View repository" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>🛡️ Wi-Fi Security Framework</h3>
+
+<a href="https://github.com/AliAkgun0/wifi-security-framework"><img src="https://img.shields.io/badge/Python-3.10+-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" /></a>
+<img src="https://img.shields.io/badge/Linux-nl80211-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
+<img src="https://img.shields.io/github/stars/AliAkgun0/wifi-security-framework?style=flat-square&logo=github&color=E3B341&labelColor=0D1117" alt="Stars" />
+
+**Wireless security assessment, straight from the kernel.**
+A modular Python framework for authorized Wi-Fi security testing with zero shell dependencies.
+
+- 🧠 Direct kernel control via **pyroute2 / Netlink**
+- 📡 Real-time 802.11 parsing with **Scapy AsyncSniffer**
+- 🩺 Kernel watchdog with autonomous driver recovery
+- 🧵 Thread-safe, crash-resilient 4-phase pipeline
+
+<a href="https://github.com/AliAkgun0/wifi-security-framework"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View repository" /></a>
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3>🔖 Bookmark Hub</h3>
+
+<a href="https://github.com/AliAkgun0/Bookmark-Hub"><img src="https://img.shields.io/badge/React-TypeScript-3178C6?style=flat-square&logo=react&logoColor=61DAFB" alt="React TypeScript" /></a>
+<img src="https://img.shields.io/badge/Zustand-shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="Zustand shadcn/ui" />
+<img src="https://img.shields.io/badge/Tailwind-CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind" />
+
+**Modern, lightweight & persistent bookmark manager.**
+Organize links into categories with a polished, animated UI — no backend needed.
+
+- 🗂️ Custom categories with safe-delete migration
+- 🌐 Automatic favicon fetching & one-click copy
+- 🎞️ Micro-interactions with **Framer Motion**
+- 🌗 Dark / light mode & LocalStorage persistence
+
+<a href="https://github.com/AliAkgun0/Bookmark-Hub"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View repository" /></a>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>⏱️ FocusTime — Pomodoro</h3>
+
+<a href="https://github.com/AliAkgun0/React-Pomodoro-Web"><img src="https://img.shields.io/badge/React-TypeScript-3178C6?style=flat-square&logo=react&logoColor=61DAFB" alt="React TypeScript" /></a>
+<img src="https://img.shields.io/badge/Supabase-RLS-3FCF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/Vite-Tailwind-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
+
+**Master your productivity.**
+A beautiful Pomodoro web app with cloud-synced focus statistics.
+
+- 🔁 Focus → short break → long break cycles
+- 📊 Daily & total focus-time statistics
+- 🔔 Browser notifications on session end
+- ☁️ Supabase sync secured with Row Level Security
+
+<a href="https://github.com/AliAkgun0/React-Pomodoro-Web"><img src="https://img.shields.io/badge/View_Repository-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="View repository" /></a>
+
+</td>
+</tr>
+</table>
+
+<details>
+<summary><b>🧪 More projects — desktop, mobile & experiments</b></summary>
+
+<br/>
+
+| Project | What it is | Tech |
+| :--- | :--- | :--- |
+| ⚙️ **[NextGen Lite](https://github.com/AliAkgun0/nextgen-lite-dll-injector)** | Native Windows process tool with a custom Win32 UI, process icons, filtering & system-process protection | `C++` `Win32 API` `GDI+` |
+| 🖱️ **[PrecisionClicker Lite](https://github.com/AliAkgun0/PrecisionClicker-Lite)** | Lightweight auto-clicker with a dark UI, custom intervals & F6 hotkey | `Python` `PyQt5` |
+| 📱 **[Mobile Web Viewer](https://github.com/AliAkgun0/Mobile-Web-Viewer)** | Locked-down Android WebView app with pull-to-refresh & connectivity checks (Android 8.1 → 15) | `Java` `Android SDK` |
+| 🧮 **[Calculator](https://github.com/AliAkgun0/calculator)** | Clean Android calculator that adapts to light & dark system themes | `Java` `XML` |
+
+</details>
+
+<br/>
+
+## 🧭 How I Work
+
+```mermaid
+flowchart LR
+    A["🔍 Discover<br/>find the right question"] --> B["🛠️ Build<br/>keep the system simple"]
+    B --> C["✅ Verify<br/>prove it actually works"]
+    C --> D["🚀 Ship<br/>release, learn, iterate"]
+    D -.-> A
+```
+
+> Not a technology showcase — products that are **clear, fast and actually used**.
+> Design, performance and security are parts of the **same product decision**.
+
+<br/>
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=AliAkgun0&show_icons=true&include_all_commits=true&rank_icon=github&hide_border=false&bg_color=0D1117&title_color=58A6FF&icon_color=A371F7&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliAkgun0&layout=compact&langs_count=8&hide=html,css&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&border_color=30363D&border_radius=10" alt="Top languages" />
+
+<img src="https://streak-stats.demolab.com?user=AliAkgun0&background=0D1117&border=30363D&stroke=30363D&ring=58A6FF&fire=A371F7&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=58A6FF&sideLabels=C9D1D9&dates=8B949E&border_radius=10" alt="GitHub streak" />
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=AliAkgun0&bg_color=0D1117&color=C9D1D9&line=58A6FF&point=A371F7&area=true&area_color=58A6FF&title_color=58A6FF&hide_border=true&custom_title=Contribution%20Activity" alt="Contribution graph" />
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=mysql,supabase,linux,cloudflare,git,github,vscode,visualstudio&theme=dark" />
-  <source media="(prefers-color-scheme: light)" srcset="https://skillicons.dev/icons?i=mysql,supabase,linux,cloudflare,git,github,vscode,visualstudio&theme=light" />
-  <img alt="Data, Systems & Tooling" src="https://skillicons.dev/icons?i=mysql,supabase,linux,cloudflare,git,github,vscode,visualstudio&theme=dark" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AliAkgun0/AliAkgun0/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AliAkgun0/AliAkgun0/output/github-snake.svg" />
+  <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/AliAkgun0/AliAkgun0/output/github-snake-dark.svg" />
 </picture>
 
 </div>
 
----
+<br/>
 
-## 🧩 Architecture & Focus Areas
+## 🌱 Right Now
 
-| Domain | Core Technologies | What I Build & Explore |
-| :--- | :--- | :--- |
-| **Full-Stack Web** | `Laravel` • `PHP` • `React` • `Next.js` • `ASP.NET Core` | Scalable REST APIs, modern UI systems, state management & authentication |
-| **Desktop & Native** | `C#` • `.NET 10` • `WPF` • `C++` • `Win32 API` • `PyQt5` | Streaming large-file processors, MVVM desktop tools & low-overhead GUIs |
-| **Systems & Security** | `Python` • `Linux Netlink (nl80211)` • `Scapy` • `PSAPI` | Kernel-space wireless telemetry, packet analysis & OS process internals |
-| **Mobile & Cloud Data** | `Java (Android)` • `Expo / React Native` • `MySQL` • `Supabase` | Cross-platform mobile experiences, relational schemas & Row Level Security |
+<table>
+<tr>
+<td width="33%" valign="top">
 
----
+**🔭 Building**
+
+- GalaXako Editor v1
+- Laravel web platforms
+- Full-stack side projects
+
+</td>
+<td width="33%" valign="top">
+
+**📚 Learning**
+
+- Full-stack architecture
+- REST API design
+- Clean code & software architecture
+
+</td>
+<td width="33%" valign="top">
+
+**🎯 Goals**
+
+- Ship a stable GalaXako release
+- Contribute to open source
+- Collaborate with teams in 🇹🇷 & 🌍
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🤝 Let's Connect
 
 <div align="center">
 
-### Let's build something clear, fast, and genuinely useful.
+**Have an idea? Let's build something useful together.**
 
-<p align="center">
-  <a href="https://aliakgun.site">
-    <img src="https://img.shields.io/badge/Website-aliakgun.site-0EA5E9?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Website" />
-  </a>
-  <a href="https://aliakgun.site/contact">
-    <img src="https://img.shields.io/badge/Contact-Send_a_Message-10B981?style=for-the-badge&labelColor=0D1117" alt="Contact" />
-  </a>
-  <a href="https://github.com/AliAkgun0">
-    <img src="https://img.shields.io/badge/GitHub-@AliAkgun0-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="GitHub" />
-  </a>
-</p>
+<a href="https://aliakgun.site"><img src="https://img.shields.io/badge/Portfolio-Visit_Website-58A6FF?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0D1117" alt="Portfolio" /></a>
+<a href="https://aliakgun.site/contact"><img src="https://img.shields.io/badge/Contact-Say_Hello-A371F7?style=for-the-badge&logo=maildotru&logoColor=white&labelColor=0D1117" alt="Contact" /></a>
+<a href="https://github.com/AliAkgun0?tab=repositories"><img src="https://img.shields.io/badge/GitHub-All_Repositories-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0D1117" alt="Repositories" /></a>
 
-<sub><b>Discover. Build. Verify.</b> • Crafted in Ankara, Türkiye 🇹🇷</sub>
+<br/><br/>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,50:1E3A8A,100:0B1120&height=110&section=footer" alt="Footer" />
+<sub>⭐ If you find something useful here, a star means a lot!</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A371F7,50:1F6FEB,100:0D1117&height=120&section=footer&text=Code.%20Learn.%20Build.%20Repeat.&fontSize=20&fontColor=FFFFFF&fontAlignY=72" width="100%" alt="Footer" />
 
 </div>
